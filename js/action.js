@@ -1,0 +1,1 @@
+renderBalance( account );
